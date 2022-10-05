@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Watchistic/static/css/main.aa7ce35e.css",
+    "main.js": "/Watchistic/static/js/main.cd39b7bf.js",
+    "static/media/hero-image.png": "/Watchistic/static/media/hero-image.28329dc9b8259aa95bb2.png",
+    "static/media/cart.png": "/Watchistic/static/media/cart.5fde4d4316534b44cc92.png",
+    "static/media/confirm.png": "/Watchistic/static/media/confirm.609b8bb069dfd3f056d9.png",
+    "index.html": "/Watchistic/index.html",
+    "main.aa7ce35e.css.map": "/Watchistic/static/css/main.aa7ce35e.css.map",
+    "main.cd39b7bf.js.map": "/Watchistic/static/js/main.cd39b7bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa7ce35e.css",
+    "static/js/main.cd39b7bf.js"
+  ]
+}
